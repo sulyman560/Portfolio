@@ -47,7 +47,7 @@ const Projects = ({ isDarkMode }) => {
                         initial={{ opacity: 0 }}
                         whileInView={{ opacity: 1 }}
                         transition={{ delay: 1.05, duration: 1 }}
-                        className='mb-10 max-w-2xl font-Ovo'>
+                        className='mb-10 max-w-2xl font-Ovo p-4'>
                         Here are the main functions of the GreenCart eCommerce website 👇
                         Product Listing – Displays products with images, names, and prices.Add to Cart – Allows users to add selected items to their shopping cart.Cart Management – Users can increase, decrease, or remove items from the cart.Checkout System – Lets users confirm their order (may be demo-based).Responsive Design – Works smoothly on both mobile and desktop devices.
                     </motion.p>
