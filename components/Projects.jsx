@@ -258,6 +258,7 @@ const Projects = ({ isDarkMode }) => {
                         <motion.li className='w-max bg-gray-700 text-white text-md flex items-center justify-between md:w-14 lg:w-24 xl:w-28 aspaect-square border border-gray-400 rounded-lg hover:-translate-y-1 duration-500 p-2'>node.js</motion.li>
 
                     </motion.ul>
+                    
                     <motion.p
                         initial={{ opacity: 0 }}
                         whileInView={{ opacity: 1 }}
